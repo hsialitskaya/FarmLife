@@ -1,0 +1,24 @@
+{
+  "Sheep": ["Grass", "Dandelion", "Clover"],
+  "Wolf": ["Sheep", "Cow", "Goat", "Hare", "Pig"],
+  "Amanita": [],
+  "Grass": [],
+  "Dandelion": [],
+  "Bear": [
+    "Sheep",
+    "Amanita",
+    "Grass",
+    "Dandelion",
+    "Cow",
+    "Goat",
+    "Hare",
+    "Pig",
+    "Berries"
+  ],
+  "Cow": ["Grass", "Dandelion", "Clover"],
+  "Goat": ["Grass", "Dandelion", "Clover"],
+  "Hare": ["Grass", "Dandelion", "Clover"],
+  "Pig": ["Grass", "Dandelion", "Clover"],
+  "Clover": [],
+  "Berries": []
+}

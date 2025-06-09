@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="amanita.jpg">resources/images/amanita.jpg</file>
+        <file alias="bear.jpg">resources/images/bear.jpg</file>
+        <file alias="berries.jpg">resources/images/berries.jpg</file>
+        <file alias="cow.jpg">resources/images/cow.jpg</file>
+        <file alias="clover.jpg">resources/images/clover.jpg</file>
+        <file alias="dandelion.jpg">resources/images/dandelion.jpg</file>
+        <file alias="goat.jpg">resources/images/goat.jpg</file>
+        <file alias="grass.jpg">resources/images/grass.jpg</file>
+        <file alias="hare.jpg">resources/images/hare.jpg</file>
+        <file alias="pig.jpg">resources/images/pig.jpg</file>
+        <file alias="sheep.jpg">resources/images/sheep.jpg</file>
+        <file alias="wolf.jpg">resources/images/wolf.jpg</file>
+        <file alias="background.jpg">resources/images/background.jpg</file>
+    </qresource>
+</RCC>
