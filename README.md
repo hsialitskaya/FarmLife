@@ -10,9 +10,7 @@
 - Transforming the application from a console-based visualization of successive epochs into a version with a graphical user interface using the Qt framework, increasing the simulation’s attractiveness and interactivity.
 
 ### GUI Version Preview 🎮
-<img width="500" src="https://github.com/user-attachments/assets/54cdce73-1ffa-482d-8671-ce04acfd90fd" />
-(![gif](https://github.com/user-attachments/assets/849b0949-7f4d-44c1-a94b-6b628252bb57)
-
+<img width="500" src="https://github.com/user-attachments/assets/89b7ff1f-92b8-4832-a042-95d33adadf89" />
 
 ### Console Version Preview 🖥️  
 <img width="800" src="https://github.com/user-attachments/assets/aafd0728-f150-477e-847f-72be3213600d" />
